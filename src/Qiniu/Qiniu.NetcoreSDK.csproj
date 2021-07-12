@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFrameworks>netcoreapp3.1</TargetFrameworks>
-		<PackageId>Qiniu</PackageId>
+		<PackageId>Qiniu.NetcoreSDK</PackageId>
 		<Description>基于官方SDK制作的适合于netcoreapp3,1使用的项目类。</Description>
 		<PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>

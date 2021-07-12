@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiniuTests", "QiniuTests\QiniuTests.csproj", "{E8CB1665-53F7-46A5-9AFD-B85AD08262D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qiniu", "Qiniu\Qiniu.csproj", "{D5DC2DAF-C437-4A1B-A0FD-B8B687A3F68A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qiniu.NetcoreSDK", "Qiniu\Qiniu.NetcoreSDK.csproj", "{D5DC2DAF-C437-4A1B-A0FD-B8B687A3F68A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EFB12BA9-69DD-47C7-9066-2ECC3614B29C}"
 	ProjectSection(SolutionItems) = preProject

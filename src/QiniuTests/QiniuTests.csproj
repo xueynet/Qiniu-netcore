@@ -12,7 +12,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Qiniu\Qiniu.csproj" />
+	  <ProjectReference Include="..\Qiniu\Qiniu.NetcoreSDK.csproj" />
 	</ItemGroup>
 
 </Project>
