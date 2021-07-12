@@ -134,7 +134,7 @@ namespace Qiniu.Storage
         /// <returns>操作结果/返回数据</returns>
         public HttpResult Dfop(string fop, string uri)
         {
-            if (UrlHelper.IsValidUrl(uri))
+            if (Util.UrlHelper.IsValidUrl(uri))
             {
                 return DfopUrl(fop, uri);
             }
