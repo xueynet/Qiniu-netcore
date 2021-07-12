@@ -16,23 +16,7 @@ public class QiniuCSharpSDK
     /// <summary>
     /// 目标框架
     /// </summary>
-#if Net20
-    public const string RTFX = "NET20";
-#elif Net35
-    public const string RTFX = "NET35";
-#elif Net40
-    public const string RTFX = "NET40";
-#elif Net45
-    public const string RTFX = "NET45";
-#elif Net46
-    public const string RTFX = "NET46";
-#elif NetCore
     public const string RTFX = "NETCore";
-#elif WINDOWS_UWP
-    public const string RTFX = "UWP";
-#else
-    public const string RTFX = "UNKNOWN";
-#endif
 
     /// <summary>
     /// SDK版本号

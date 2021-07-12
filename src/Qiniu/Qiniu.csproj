@@ -7,9 +7,9 @@
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<LangVersion>latest</LangVersion>
 		<Version>7.3.0</Version>
-		<Copyright>Copyright © qiniu Solutions, Ltd</Copyright>
-		<Company>qiniu Solutions, Ltd</Company>
-		<Authors>qiniu Solutions, Ltd</Authors>
+		<Copyright>Copyright © Qiniu Cloud</Copyright>
+		<Company>Qiniu Cloud</Company>
+		<Authors>Xuey Solutions, Ltd</Authors>
 		<PackageProjectUrl>https://www.xuey.net/</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/xueynet/Qiniu-netcore</RepositoryUrl>
 	</PropertyGroup>
